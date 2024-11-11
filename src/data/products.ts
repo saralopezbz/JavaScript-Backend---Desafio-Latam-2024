@@ -1,0 +1,73 @@
+// Lista de productos con propiedades en inglés
+export const products = [
+  {
+    id: 1,
+    name: "Smartphone",
+    price: 800,
+    category: "Electronics",
+    stock: 12,
+  },
+  {
+    id: 2,
+    name: "Laptop",
+    price: 1200,
+    category: "Electronics",
+    stock: 7,
+  },
+  {
+    id: 3,
+    name: "Refrigerator",
+    price: 1500,
+    category: "Home Appliances",
+    stock: 4,
+  },
+  {
+    id: 4,
+    name: "Television",
+    price: 700,
+    category: "Electronics",
+    stock: 9,
+  },
+  {
+    id: 5,
+    name: "Sofa",
+    price: 450,
+    category: "Furniture",
+    stock: 15,
+  },
+  {
+    id: 6,
+    name: "Microwave",
+    price: 300,
+    category: "Home Appliances",
+    stock: 20,
+  },
+  {
+    id: 7,
+    name: "Dining Table",
+    price: 600,
+    category: "Furniture",
+    stock: 10,
+  },
+  {
+    id: 8,
+    name: "Washing Machine",
+    price: 1000,
+    category: "Home Appliances",
+    stock: 6,
+  },
+  {
+    id: 9,
+    name: "Coffee Maker",
+    price: 100,
+    category: "Home Appliances",
+    stock: 30,
+  },
+  {
+    id: 10,
+    name: "Headphones",
+    price: 150,
+    category: "Electronics",
+    stock: 25,
+  },
+];
